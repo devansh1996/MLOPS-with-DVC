@@ -1,0 +1,4 @@
+1. Make Github Repo and Clone
+2. Make folder with experiments
+3. src folder with all components
+4. add data, model ,reports to gitignore

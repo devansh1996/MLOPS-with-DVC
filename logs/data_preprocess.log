@@ -1,0 +1,10 @@
+2026-02-04 20:59:17,731 - data_preprocess - DEBUG - data loaded
+2026-02-04 20:59:17,732 - data_preprocess - DEBUG - starting the process
+2026-02-04 20:59:17,734 - data_preprocess - DEBUG - Target column encoded
+2026-02-04 20:59:17,739 - data_preprocess - DEBUG - Duplicates removed
+2026-02-04 20:59:19,610 - data_preprocess - DEBUG - text column transformed
+2026-02-04 20:59:19,611 - data_preprocess - DEBUG - starting the process
+2026-02-04 20:59:19,613 - data_preprocess - DEBUG - Target column encoded
+2026-02-04 20:59:19,613 - data_preprocess - DEBUG - Duplicates removed
+2026-02-04 20:59:20,112 - data_preprocess - DEBUG - text column transformed
+2026-02-04 20:59:20,128 - data_preprocess - DEBUG - files saved
