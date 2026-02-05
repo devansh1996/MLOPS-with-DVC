@@ -1,10 +1,20 @@
-2026-02-04 20:59:17,731 - data_preprocess - DEBUG - data loaded
-2026-02-04 20:59:17,732 - data_preprocess - DEBUG - starting the process
-2026-02-04 20:59:17,734 - data_preprocess - DEBUG - Target column encoded
-2026-02-04 20:59:17,739 - data_preprocess - DEBUG - Duplicates removed
-2026-02-04 20:59:19,610 - data_preprocess - DEBUG - text column transformed
-2026-02-04 20:59:19,611 - data_preprocess - DEBUG - starting the process
-2026-02-04 20:59:19,613 - data_preprocess - DEBUG - Target column encoded
-2026-02-04 20:59:19,613 - data_preprocess - DEBUG - Duplicates removed
-2026-02-04 20:59:20,112 - data_preprocess - DEBUG - text column transformed
-2026-02-04 20:59:20,128 - data_preprocess - DEBUG - files saved
+2026-02-05 00:13:58,554 - data_preprocess - DEBUG - data loaded
+2026-02-05 00:13:58,554 - data_preprocess - DEBUG - starting the process
+2026-02-05 00:13:58,557 - data_preprocess - DEBUG - Target column encoded
+2026-02-05 00:13:58,562 - data_preprocess - DEBUG - Duplicates removed
+2026-02-05 00:14:00,518 - data_preprocess - DEBUG - text column transformed
+2026-02-05 00:14:00,518 - data_preprocess - DEBUG - starting the process
+2026-02-05 00:14:00,521 - data_preprocess - DEBUG - Target column encoded
+2026-02-05 00:14:00,524 - data_preprocess - DEBUG - Duplicates removed
+2026-02-05 00:14:01,247 - data_preprocess - DEBUG - text column transformed
+2026-02-05 00:14:01,331 - data_preprocess - DEBUG - files saved
+2026-02-05 00:36:02,126 - data_preprocess - DEBUG - data loaded
+2026-02-05 00:36:02,127 - data_preprocess - DEBUG - starting the process
+2026-02-05 00:36:02,130 - data_preprocess - DEBUG - Target column encoded
+2026-02-05 00:36:02,135 - data_preprocess - DEBUG - Duplicates removed
+2026-02-05 00:36:04,161 - data_preprocess - DEBUG - text column transformed
+2026-02-05 00:36:04,163 - data_preprocess - DEBUG - starting the process
+2026-02-05 00:36:04,163 - data_preprocess - DEBUG - Target column encoded
+2026-02-05 00:36:04,168 - data_preprocess - DEBUG - Duplicates removed
+2026-02-05 00:36:04,718 - data_preprocess - DEBUG - text column transformed
+2026-02-05 00:36:04,736 - data_preprocess - DEBUG - files saved

@@ -1,0 +1,24 @@
+2026-02-05 00:16:32,259 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-05 00:16:32,279 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-05 00:16:32,326 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-05 00:16:33,703 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'params' is not defined
+2026-02-05 00:17:06,473 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-05 00:17:06,494 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-05 00:17:06,582 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-05 00:17:07,774 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'params' is not defined
+2026-02-05 00:38:52,513 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-05 00:38:52,532 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-05 00:38:52,570 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-05 00:38:53,840 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'params' is not defined
+2026-02-05 00:55:13,424 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-05 00:55:13,445 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-05 00:55:13,490 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-05 00:55:15,169 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'params' is not defined
+2026-02-05 00:57:38,087 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-05 00:57:38,112 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-05 00:57:38,158 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-05 00:57:39,760 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'params' is not defined
+2026-02-05 00:59:19,434 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-05 00:59:19,459 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-05 00:59:19,515 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-05 00:59:21,014 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'params' is not defined

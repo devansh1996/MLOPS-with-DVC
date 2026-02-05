@@ -1,2 +1,13 @@
-2026-02-02 23:27:21,323 - data_ingestion - DEBUG - Data preprocessing completed
-2026-02-02 23:27:21,351 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-02-05 00:13:10,568 - data_ingestion - DEBUG - Data preprocessing completed
+2026-02-05 00:13:10,610 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-02-05 00:13:53,230 - data_ingestion - DEBUG - Data preprocessing completed
+2026-02-05 00:13:53,262 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-02-05 00:35:56,226 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-02-05 00:35:56,693 - data_ingestion - DEBUG - Data preprocessing completed
+2026-02-05 00:35:56,724 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-02-05 00:38:37,834 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-02-05 00:38:38,098 - data_ingestion - DEBUG - Data preprocessing completed
+2026-02-05 00:38:38,124 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-02-05 00:52:07,903 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-02-05 00:52:08,340 - data_ingestion - DEBUG - Data preprocessing completed
+2026-02-05 00:52:08,370 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
